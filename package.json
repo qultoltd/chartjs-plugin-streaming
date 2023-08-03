@@ -1,6 +1,6 @@
 {
-  "name": "@robloche/chartjs-plugin-streaming",
-  "homepage": "https://github.com/Robloche/chartjs-plugin-streaming",
+  "name": "@qultoltd/chartjs-plugin-streaming",
+  "homepage": "https://github.com/qultoltd/chartjs-plugin-streaming",
   "description": "Chart.js plugin for live streaming data",
   "author": "Akihiko Kusanagi <nagi@nagi-p.com> (https://nagix.github.io/)",
   "version": "3.1.0",
@@ -12,10 +12,10 @@
   "types": "types/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Robloche/chartjs-plugin-streaming.git"
+    "url": "https://github.com/qultoltd/chartjs-plugin-streaming.git"
   },
   "bugs": {
-    "url": "https://github.com/Robloche/chartjs-plugin-streaming/issues"
+    "url": "https://github.com/qultoltd/chartjs-plugin-streaming/issues"
   },
   "keywords": [
     "chart.js",
