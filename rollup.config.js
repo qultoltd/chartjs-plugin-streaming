@@ -78,7 +78,7 @@ module.exports = [
       }),
     ],
     output: {
-      file: pkg.module,
+      file: `dist/${pkg.name}.esm.js`,
       banner,
       format: 'esm',
       indent: false,
