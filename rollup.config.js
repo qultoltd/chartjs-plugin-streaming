@@ -2,7 +2,7 @@ const analyze = require('rollup-plugin-analyzer');
 const cleanup = require('rollup-plugin-cleanup');
 const json = require('@rollup/plugin-json');
 const resolve = require('@rollup/plugin-node-resolve').default;
-const terser = require('rollup-plugin-terser').terser;
+const terser = require('rollup-plugin-minification').terser;
 const pkg = require('./package.json');
 
 const input = 'src/index.js';
